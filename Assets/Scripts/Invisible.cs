@@ -9,6 +9,7 @@ public class Invisible : MonoBehaviour
         if(collision.gameObject.tag == "Invisible")
         {
             //rgb 설정 or 마따리얼 수정
+            //git을 위한 수정
         }
     }
 }
